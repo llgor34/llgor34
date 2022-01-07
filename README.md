@@ -1,1 +1,7 @@
-My name's Igor. I'm really into programming, learning everyday and practising, because that's my passion. You may not find here super professional code altougth I will try my best to write good code. I really like making web pages and programming in JS/php
+My name's Igor. I'm really into programming, learning it by making projects, partipacing in courses and reading docs.
+Technologies I'm interested right now:
+  - React.JS
+  - Next.JS
+  - Node.JS
+  - Angular
+  - Google Cloud
