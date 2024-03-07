@@ -1,7 +1,7 @@
 # About me
 My name's Igor. I'm really into programming, learning it by making projects, partipacing in courses and reading docs.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark&title_color=C41E3A&text_color=cccccc&icon_color=5D3FD3) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=llgor34&show_icons=true&theme=dark&title_color=C41E3A&text_color=cccccc&icon_color=5D3FD3) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llgor34&layout=compact&theme=dark&text_color=cccccc)
 
