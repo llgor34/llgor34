@@ -1,9 +1,9 @@
 # About me
 My name's Igor. I'm really into programming, learning it by making projects, partipacing in courses and reading docs.
 
-![Anurag's GitHub stats](https://github-readme-stats-beta-lemon.vercel.app/api?username=llgor34&show_icons=true&theme=dark&title_color=C41E3A&text_color=cccccc&icon_color=5D3FD3) 
+![Anurag's GitHub stats](https://github-readme-stats-red-kappa-16.vercel.app/api?username=llgor34&show_icons=true&theme=dark&title_color=C41E3A&text_color=cccccc&icon_color=5D3FD3) 
 
-![Top Langs](https://github-readme-stats-beta-lemon.vercel.app/api/top-langs/?username=llgor34&layout=compact&theme=dark&text_color=cccccc)
+![Top Langs](https://github-readme-stats-red-kappa-16.vercel.app/api/top-langs/?username=llgor34&layout=compact&theme=dark&text_color=cccccc)
 
 # Sites I'm learning from
 <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" /> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
